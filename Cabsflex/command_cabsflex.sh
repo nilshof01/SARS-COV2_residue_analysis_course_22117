@@ -1,0 +1,1 @@
+$CABSflex --input-protein *.pdb -k 10 -y 30 -a 10 -v 3 -z 10 -A
